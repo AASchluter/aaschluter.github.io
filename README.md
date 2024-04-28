@@ -6,11 +6,10 @@
 </head>
 <body>
   <header>
-    <h1>&#9832; Amy Schluter &#9832;</h1>
+    <h1>&#9820; Amy Schluter &#9820;</h1>
   </header>
   <div id="intro">
     <p>Welcome to my page</p>
-
     <p>Practicing writing code</p>
   </div>
 <footer>
