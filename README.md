@@ -6,7 +6,7 @@
 </head>
 <body>
   <header>
-    <h1>&#9875; Amy Schluter &#9875;</h1>
+    <h1>&#9880; Amy Schluter &#9880;</h1>
   </header>
   <div id="intro">
     <p>Welcome to my page</p>
